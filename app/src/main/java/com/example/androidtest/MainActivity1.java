@@ -1,24 +1,16 @@
 package com.example.androidtest;
 
+import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
+import android.util.Log;
+import android.widget.LinearLayout;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
-import android.graphics.Color;
-import android.os.Bundle;
-import android.os.Handler;
-import android.support.v7.app.ActionBarActivity;
-import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.TextView;
 
 
 public class MainActivity1 extends ActionBarActivity {
@@ -61,11 +53,11 @@ public class MainActivity1 extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main1);
         
-        task(0);
-        task(1);
-        task(2);
-        task(3);
-        task(4);
+//        task(0);
+//        task(1);
+//        task(2);
+//        task(3);
+//        task(4);
 
         
 //        word();
