@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="3000dp"
+    android:layout_height="fill_parent"
+    tools:context="com.example.androidtest.MainActivity1" >
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:visibility="gone"/>
+
+    <com.example.androidtest.TabAnimationView
+        android:id="@+id/tab_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:visibility="gone"/>
+
+        <ImageView
+             android:id="@+id/animation_top_left"
+             android:layout_width="wrap_content"
+             android:layout_height="fill_parent"
+             android:contentDescription="qq"
+             android:src="@drawable/qqq"
+              /> 
+              
+         <ImageView
+             android:id="@+id/animation_top_right"  android:layout_width="wrap_content"
+             android:layout_height="fill_parent"
+             android:contentDescription="qq"
+             android:src="@drawable/pp" 
+             android:visibility="gone"/>
+
+</RelativeLayout>

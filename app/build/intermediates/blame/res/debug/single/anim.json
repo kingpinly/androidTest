@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/King/Downloads/androidTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/a2.xml",
+        "source": "/Users/King/Downloads/androidTest/app/src/main/res/anim/a2.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/anim_out.xml",
+        "source": "/Users/King/Downloads/androidTest/app/src/main/res/anim/anim_out.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/King/Downloads/androidTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/King/Downloads/androidTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/King/Downloads/androidTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/a1.xml",
+        "source": "/Users/King/Downloads/androidTest/app/src/main/res/anim/a1.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/King/Downloads/androidTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/King/Downloads/androidTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/a3.xml",
+        "source": "/Users/King/Downloads/androidTest/app/src/main/res/anim/a3.xml"
+    },
+    {
+        "merged": "/Users/King/Downloads/androidTest/app/build/intermediates/res/merged/debug/anim/anim_in.xml",
+        "source": "/Users/King/Downloads/androidTest/app/src/main/res/anim/anim_in.xml"
+    }
+]
